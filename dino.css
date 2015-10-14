@@ -1,0 +1,9 @@
+.hp_header {
+	height: 200px;
+	border-bottom: 2px solid green;
+}
+.trex_banner {
+	margin: 0 auto;
+	width: 80%;
+	display: inline-block;
+}

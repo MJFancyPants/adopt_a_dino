@@ -1,9 +1,10 @@
-.hp_header {
-	height: 200px;
-	border-bottom: 2px solid green;
+body {
+	margin: 0;
 }
-.trex_banner {
-	margin: 0 auto;
-	width: 80%;
-	display: inline-block;
+.hp_header {
+	border-bottom: solid 1px green;
+}
+#banner {
+	max-width: 100%;
+	height: auto;
 }

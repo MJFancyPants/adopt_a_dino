@@ -152,6 +152,7 @@ h3 {
 
 /*Body Layout for Profile Pages. Repeated for each profile*/
 
+
 .ProfileBody {
 	width:90%;
 	background-color:darkcyan;
@@ -182,18 +183,20 @@ h3 {
 }
 
 .adoptbutton {
-	width: 150px;
-	height:50px;
-	padding:3px;
 	margin:auto;
+	width: 250px;
+	height:50px;
+	border:1px solid black;
 	background-color:green;
-	text-decoration:none;
 }
 
 .adoptbutton p {
+	font-size:.8em;
 	font-family:"Arial Black";
 	color:white;
+	text-decoration:none;
 }
+
 
 /*Profile Page Layout Ends*/
 
@@ -212,7 +215,7 @@ h3 {
 
 .CareTip1, .CareTip2, .CareTip3 {
 	width:400px;
-	height:500px;
+	height:600px;
 	float:left;
 	border:solid 1px grey;
 	margin-top:1%;
@@ -238,10 +241,17 @@ h3 {
 	margin:auto;
 }
 
-
-
-
-
 .CareTip1 p {
 	color:black;
+	text-align:justify;
+}
+
+.CareTip2 p {
+	color:black;
+	text-align:justify;
+}
+
+.CareTip3 p {
+	color:black;
+	text-align:justify;
 }

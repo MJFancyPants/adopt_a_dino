@@ -195,4 +195,53 @@ h3 {
 	color:white;
 }
 
+/*Profile Page Layout Ends*/
 
+/*Layout for Care and Feeding Page*/
+
+.CareIntro {
+	width:800px;
+	height: 170px;
+	font-family:"Arial Black";
+	text-align:center;
+	background-color:darkcyan;
+	border:solid 3px green;
+	margin:3% auto;
+}
+
+
+.CareTip1, .CareTip2, .CareTip3 {
+	width:400px;
+	height:500px;
+	float:left;
+	border:solid 1px grey;
+	margin-top:1%;
+	margin-left:2%;
+	margin-bottom:1.5%;
+}
+
+.CareTip1 img {
+	width:380px;
+	display:block;
+	margin:auto;
+}
+
+.CareTip2 img {
+	width:380px;
+	display:block;
+	margin:auto;
+}
+
+.CareTip3 img {
+	width:380px;
+	display:block;
+	margin:auto;
+}
+
+
+
+
+
+.CareTip1 p {
+	color:black;
+}

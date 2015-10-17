@@ -149,3 +149,50 @@ h3 {
 
 
 /*​home page layout ends*/
+
+/*Body Layout for Profile Pages. Repeated for each profile*/
+
+.ProfileBody {
+	width:90%;
+	background-color:darkcyan;
+	border: solid 3px green;
+	margin:3%;
+	height:500px;
+}
+
+.ProfileBody h1 {
+	font-family:"Arial Black";
+	color:white;
+	text-align:left;
+	margin:15px;
+}
+	
+.ProfileBody img {
+	width:300px;
+	float:left;
+	margin: 20px;
+}
+
+.ProfileBody p {
+	color:white;
+	font-family: Arial;
+	text-align:left;
+	color:white;	
+	margin: 25px;
+}
+
+.adoptbutton {
+	width: 150px;
+	height:50px;
+	padding:3px;
+	margin:auto;
+	background-color:green;
+	text-decoration:none;
+}
+
+.adoptbutton p {
+	font-family:"Arial Black";
+	color:white;
+}
+
+
